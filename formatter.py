@@ -19,3 +19,4 @@ def reformat() -> None:
         return None
 
     copy('Something went wrong or the clipboard was empty')
+    return None
